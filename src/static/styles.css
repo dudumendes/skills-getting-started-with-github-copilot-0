@@ -74,6 +74,13 @@ section h3 {
   margin-bottom: 8px;
 }
 
+.participants-section {
+  background-color: #e3f2fd;
+  padding: 10px;
+  border-radius: 5px;
+  margin-top: 10px;
+}
+
 .form-group {
   margin-bottom: 15px;
 }
